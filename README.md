@@ -1,3 +1,1 @@
-# exercicio_pcea
-
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+A disciplina PC.E.A constrói uma base sólida sobre como funcionam os componentes dentro de um computador e sua estrutura em geral. Durante o curso, nós, alunos, aprendemos sobre os principais componentes de hardware, como SSD, memória RAM, entre outros. Temas como arquitetura de CPU são bem abordados ao longo das aulas. Tudo isso tem como objetivo proporcionar aprendizado e tornar mais claro como realmente funciona um computador, além de outras questões estudadas na matéria.
